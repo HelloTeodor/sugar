@@ -17,10 +17,22 @@ body {
     margin: 0;
     padding: 0;
 }
+.conth {
+    width: 350px;
+    position: relative;
+}
 h1 {
     width: 350px;
     font-size: 1.5rem;
-    margin-left: 60px;
+    margin-left: 40px;
+}
+h2 {
+    width: 350px;
+    font-size: 1.5rem;
+    margin-left: 0px;
+    position: absolute;
+    left: 0;
+    top: -80px;
 }
 img {
     width: 325px;
